@@ -234,7 +234,8 @@
 <li><a href='/en.html'>Canada.ca</a></li>
 <li><a href='/en/revenue-agency.html'>Canada Revenue Agency (CRA)</a></li>
 <li><a href='/en/revenue-agency/services/e-services/cra-login-services.html'>CRA sign-in services</a></li>
-<li><a href='/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services.html'>Help with using the CRA sign-in services</a></li>
+<li><a href='/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html'>My Business Account</a></li>
+<li><a href='/en/revenue-agency/services/e-services/digital-services-businesses/business-account/about-business-account.html>About My Business Account</a></li>
 </ol></div></nav>
 
 
@@ -282,7 +283,7 @@
     <li><a href="#hlp4">Requesting paper mail</a> </li>
 </ul>		-->    
 		    
-<p>This change applies to <strong>all</strong> the following:</p>
+<p>This change applies to <strong>all</strong> the following businesses:</p>
   <ul>
   <li>New business number and CRA program account registrations</li>
   <li>Existing businesses registered for My Business Account </li>
@@ -298,7 +299,7 @@
   </ul>
            
 
-<h2 id="hlp1">Where to view your business correspondence</h2>
+<h2 id="hlp1">Where to view business correspondence online</h2>
 <p>Business correspondence refers to notices, letters, forms, statements, and other documents that are sent by the CRA to communicate important information about your business tax account or returns. </p>
 <p>With the change to online mail, your business correspondence will be considered as received on the date that it is posted  to your My Business Account. You will need to sign in to My Business Account to access, view, print, or download your business correspondence.</p>
 <p>Follow the steps below to <strong>access your business correspondence</strong>:</p>
@@ -306,7 +307,8 @@
     
 	<ol class="lst-stps">
 		<li>
-			<p> Sign in to My Business Account. If you are an authorized representative, sign in to Represent a Client</p>
+			<p><a hraf='https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html'>Sign in to My Business Account</a></p> 
+			<p>If you are an authorized representative, <a href='https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html'>sign in to Represent a Client</a></p>
 		</li>
 		<li>
 			
@@ -323,20 +325,21 @@
 
 <h2 id="hlp2">How to prepare for this change </h2>
   <h3>Accessing My Business Account </h3>
-    <p>To prepare for the change to online mail, the CRA recommends signing in to your My Business Account to ensure you have access to all your business numbers and the ability to view your business correspondence.</p>
-    <p>If you are not registered for My Business Account and would like to take advantage of the benefits of the CRA’s digital services, go to <a href="https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html">My Business Account</a></p>
+    <p>To prepare for the change to online mail, the CRA recommends signing in to your My Business Account to <strong>ensure you have access</strong> to all your business numbers and the ability to view your business correspondence.</p>
+    <p>If you are not registered for My Business Account and would like to take advantage of the benefits of the CRA’s digital services, go to <a href="https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html">My Business Account</a>.</p>
     <p>For more information on the CRA’s digital services, go to <a href="https://www.canada.ca/en/revenue-agency/services/e-services.html">Digital services</a>.</p>
 
   <h3>Email notifications </h3>
-    <p>Once you sign in to My Business Account <strong>make sure your email address is up-to-date</strong>. Without an updated email address you may miss important notifications about the receipt of correspondence and confirmation of changes made to your account.</p>
-    <p>Email notifications from the CRA let you know when important changes are made on your account and when you have mail to view in My Business Account. </p>
-	  <p> To confirm or change your email address or to register to receive email notifications from the CRA complete the following steps:</p>
+    <p>Make sure your email address is in My Business Account and is up-to-date.</p>
+    <p>Email notifications from the CRA let you know when important changes are made on your account and when you have mail to view in My Business Account. You sign up to receive email notifications when an email address is added in your account. Without an updated email address, you may miss important notifications about the receipt of correspondence and confirmation of changes made to your account.</p>
+    <p>Once you sign in to My Business Account, review your Notification preferences to <strong>make sure your email address is up-to-date</strong>. To confirm, add or change your email address, complete the following steps:</p>
 
 	<div class="mwsbodytext text parbase section">
     
 	<ol class="lst-stps">
 		<li>
-			<p> Sign in to My Business Account. If you are an authorized representative, sign in to Represent a Client.</p>
+			<p><a hraf='https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html'>Sign in to My Business Account</a></p> 
+			<p>If you are an authorized representative, <a href='https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html'>sign in to Represent a Client</a></p>
 		</li>
 		<li>
 			
@@ -358,16 +361,20 @@
 
   <p>For details: <a href="https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/online-mail-reduce-your-cost-doing-business-saving-time-online.html">Email notifications from the CRA – Businesses</a> </p>
               
+<h3>New business number and CRA program account registrations</h3>
+<p>Businesses registering for a new business number or a CRA program account will need to register for My Business Account and provide a valid email address if they haven’t already done so to receive notifications and access account updates and correspondence.</p>
+<p><a href='https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/register-cra-sign-in-services.html?account=mba'>Register for My Business Account</p>
+
 <h2 id="hlp3">Exceptions</h2>
   <h3>Existing businesses not registered for My Business Account</h3>
-    <p>Existing businesses not registered for My Business Account through the business owner or an authorized representative will continue to receive their CRA correspondence by paper mail. </p>
+    <p>Existing businesses not registered for My Business Account through the business owner <strong>or</strong> an authorized representative will continue to receive their CRA correspondence by paper mail. </p>
               
   <h3>Charities</h3> 
     <p>Charities will continue to receive their CRA correspondence by paper mail unless they sign up to receive their CRA mail online. </p>
               
   <h3>Non-resident businesses</h3>
     <p>Non-resident businesses that <strong>do not</strong> have access to My Business Account through their representative or an owner that is a Canadian resident will not be transitioned to online mail and will continue to receive their correspondence by paper mail.</p>
-    <p>If the representative or the owner of a non-redisent business <strong>has access</strong> to My Business Account, the default delivery method <strong>will transition</strong> to online mail.  </p>
+    <p>If the representative or the owner of a non-resident business <strong>has access</strong> to My Business Account, the default delivery method <strong>will transition</strong> to online mail.  </p>
 
 <h2 id="hlp4">Requesting paper mail</h2>
 <p>If you would like to receive your business correspondence by paper mail, you’ll need to make a request to activate paper mail. </p>
